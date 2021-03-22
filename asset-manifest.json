@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/nofarYunger/css-interview.git/static/css/main.9aaec2be.chunk.css",
-    "main.js": "/nofarYunger/css-interview.git/static/js/main.7e79e7ee.chunk.js",
-    "main.js.map": "/nofarYunger/css-interview.git/static/js/main.7e79e7ee.chunk.js.map",
-    "runtime-main.js": "/nofarYunger/css-interview.git/static/js/runtime-main.bfe8a034.js",
-    "runtime-main.js.map": "/nofarYunger/css-interview.git/static/js/runtime-main.bfe8a034.js.map",
-    "static/js/2.d9b3a5f8.chunk.js": "/nofarYunger/css-interview.git/static/js/2.d9b3a5f8.chunk.js",
-    "static/js/2.d9b3a5f8.chunk.js.map": "/nofarYunger/css-interview.git/static/js/2.d9b3a5f8.chunk.js.map",
-    "static/js/3.a2321125.chunk.js": "/nofarYunger/css-interview.git/static/js/3.a2321125.chunk.js",
-    "static/js/3.a2321125.chunk.js.map": "/nofarYunger/css-interview.git/static/js/3.a2321125.chunk.js.map",
-    "index.html": "/nofarYunger/css-interview.git/index.html",
-    "static/css/main.9aaec2be.chunk.css.map": "/nofarYunger/css-interview.git/static/css/main.9aaec2be.chunk.css.map",
-    "static/js/2.d9b3a5f8.chunk.js.LICENSE.txt": "/nofarYunger/css-interview.git/static/js/2.d9b3a5f8.chunk.js.LICENSE.txt",
-    "static/media/styles.scss": "/nofarYunger/css-interview.git/static/media/ready-bg-mobile.6dc46897.jpg"
+    "main.css": "/css-interview/static/css/main.ba5246cf.chunk.css",
+    "main.js": "/css-interview/static/js/main.7e79e7ee.chunk.js",
+    "main.js.map": "/css-interview/static/js/main.7e79e7ee.chunk.js.map",
+    "runtime-main.js": "/css-interview/static/js/runtime-main.61ecb16d.js",
+    "runtime-main.js.map": "/css-interview/static/js/runtime-main.61ecb16d.js.map",
+    "static/js/2.d9b3a5f8.chunk.js": "/css-interview/static/js/2.d9b3a5f8.chunk.js",
+    "static/js/2.d9b3a5f8.chunk.js.map": "/css-interview/static/js/2.d9b3a5f8.chunk.js.map",
+    "static/js/3.a2321125.chunk.js": "/css-interview/static/js/3.a2321125.chunk.js",
+    "static/js/3.a2321125.chunk.js.map": "/css-interview/static/js/3.a2321125.chunk.js.map",
+    "index.html": "/css-interview/index.html",
+    "static/css/main.ba5246cf.chunk.css.map": "/css-interview/static/css/main.ba5246cf.chunk.css.map",
+    "static/js/2.d9b3a5f8.chunk.js.LICENSE.txt": "/css-interview/static/js/2.d9b3a5f8.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/css-interview/static/media/ready-bg-mobile.6dc46897.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bfe8a034.js",
+    "static/js/runtime-main.61ecb16d.js",
     "static/js/2.d9b3a5f8.chunk.js",
-    "static/css/main.9aaec2be.chunk.css",
+    "static/css/main.ba5246cf.chunk.css",
     "static/js/main.7e79e7ee.chunk.js"
   ]
 }
