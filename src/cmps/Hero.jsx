@@ -3,16 +3,18 @@ import React from 'react'
 export default function Hero() {
     return (
         <section className="hero-bg">
-            <div className=" hero-svg ">
-                <div className="main-layout">
 
-                    {/* <div className="hero-contant flex column justify-center"></div> */}
-                    <h1> A modern publishing platform</h1>
-                    <p>Grow your audience and build your online brand</p>
-                    <button className="primary-btn CTA">Start for Free</button>
-                    <button className="primary-btn ">Learn More</button>
+            <div className="main-layout">
+                <div className="hero-container">
+
+                    <h1>Exquisite dining since 1989</h1>
+                    <p>
+                        Experience our seasonal menu in beautiful country surroundings. Eat the freshest produce from
+  the comfort of our farmhouse.</p>
+                    <button className="primary-btn dark ">BOOK A TABLE</button>
                 </div>
             </div>
+
 
 
 

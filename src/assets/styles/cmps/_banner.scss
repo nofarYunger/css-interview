@@ -1,0 +1,16 @@
+.banner {
+    width: 100%;
+    background-image: url("../../imgs/homepage/ready-bg-mobile.jpg");
+    background-repeat: no-repeat;
+    @media screen and (min-width: 1000px) {
+        background-image: url("../../imgs/homepage/ready-bg-desktop.jpg");
+        height: 240px;
+    }
+
+    .primary-btn {
+        background-color: #fff;
+        border: none;
+        color: #111111;
+        text-transform: capitalize;
+    }
+}

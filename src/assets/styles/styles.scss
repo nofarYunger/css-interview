@@ -6,14 +6,17 @@
 
 // Basics
 @import "basics/helpers";
-@import "basics/layout";
 @import "basics/base";
 @import "basics/buttons";
 
 // Components
 @import "cmps/appHeader";
 @import "cmps/hero";
+@import "cmps/gallery";
+@import "cmps/highlight";
+@import "cmps/banner";
+@import "cmps/footer";
 
 // Views
-@import "pages/home";
+// @import "pages/home";
 // @import "pages/HomePage";

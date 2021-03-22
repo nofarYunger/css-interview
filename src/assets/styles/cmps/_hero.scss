@@ -1,30 +1,24 @@
 .hero-bg {
     width: 100%;
-    height: 600px;
-    background: linear-gradient(135deg, #ff8f71 0%, #ff3e55 100%);
-    border-bottom-left-radius: 100px;
-
-    .hero-svg {
-        background-image: url("../../imgs/bg-pattern-intro.svg");
-        background-position-x: -490px;
-        height: 100%;
-        text-align: center;
-        background-position: center;
-        padding-top:100px ;
-
+    height: 100vh;
+    background-image: url("../../imgs/homepage/hero-bg-desktop.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    .hero-container {
+        padding-top: 258px;
+        max-width: 523px;
+        text-align: left;
         h1 {
-            font-family: Overpass-semi-bold;
+            font-family: Spartan-light;
             font-size: 64px;
-            line-height: 98px;
-            letter-spacing: -1.92px;
+            line-height: 72px;
+            letter-spacing: -0.8px;
         }
 
         p {
-            font-family: Overpass-light;
-            font-weight: 300;
-            font-size: 20px;
-            line-height: 31px;
-            text-align: center;
+            font-size: 18px;
+            line-height: 30px;
+            text-align: left;
         }
     }
 }

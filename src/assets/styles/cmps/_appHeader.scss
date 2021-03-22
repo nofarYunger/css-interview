@@ -1,32 +1,6 @@
 header {
-    position: fixed;
-    .logo {
-        width:102px ;
-        background-image: url('../../imgs/logo.svg');
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-.links{
-    gap: 32px;
-}
-    li {
-        color: #fff;
-        margin-right: 5px;
-        text-decoration: none;
-        &::after{
-            content: url("../../imgs/icon-arrow-light.svg");
-        }
-        &.active {
-            text-decoration: none;
-        }
-        a:-webkit-any-link {
-            color: #fff;
-            cursor: pointer;
-            text-decoration: none;
-        }
-    }
+    position: absolute;
+    padding-top: 65px;
 
-    .btn-container{
-        gap:32px ;
-    }
+   
 }

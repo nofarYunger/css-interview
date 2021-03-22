@@ -1,0 +1,57 @@
+.gallery {
+    // height: 1400px;
+    position: relative;
+    color: #242b37;
+
+    h1 {
+        font-family: Spartan-bold;
+        font-size: 40px;
+        line-height: 56px;
+    }
+
+    p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .bg-svg-enjoy {
+        background-image: url("../../imgs/homepage/enjoyable-place-mobile.jpg");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 100%;
+        height: 400px;
+        @media screen and(min-width:1000px) {
+            background-image: url("../../imgs/homepage/enjoyable-place-desktop.jpg");
+            width: 540px;
+            height: 720px;
+        }
+    }
+    .bg-svg-locally {
+        background-image: url("../../imgs/homepage/locally-sourced-mobile.jpg");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 100%;
+        height: 400px;
+        @media screen and(min-width:1000px) {
+            background-image: url("../../imgs/homepage/locally-sourced-desktop.jpg");
+            width: 540px;
+            height: 720px;
+        }
+    }
+
+    .svg-gray {
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 895px;
+        height: 320px;
+        position: absolute;
+        &.right {
+            background-image: url("../../imgs/patterns/pattern-curve-top-right.svg");
+            left: 895px;
+            top: 1070px;
+
+        }
+        &.left {
+            background-image: url("../../imgs/patterns/pattern-curve-top-left.svg");
+        }
+    }
+}

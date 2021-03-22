@@ -1,0 +1,17 @@
+footer {
+    background-color: #111111;
+    color: #fff;
+    line-height: 28px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    height: 240px;
+
+    p:first-of-type {
+        margin-left: 172px;
+        margin-right: 124px;
+    }
+
+    .footer{
+        justify-content: space-between;
+    }
+}

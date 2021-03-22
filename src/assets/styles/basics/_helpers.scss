@@ -1,4 +1,3 @@
-
 // Font Sizes
 
 .fs12 {
@@ -76,4 +75,17 @@
   display: none;
 }
 
-
+.divider {
+  background-image: url("../../imgs/patterns/pattern-divide.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 70px;
+  height: 7px;
+}
+.logo {
+  background-image: url("../../imgs/logo.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 103px;
+  height: 40px;
+}

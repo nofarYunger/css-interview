@@ -1,5 +1,3 @@
-@import "../setup/variables";
-@import "../setup/typography";
 
 * {
   box-sizing: border-box;
@@ -8,7 +6,7 @@ html {
   line-height: 20px;
   color: #fff;
   scroll-behavior: smooth;
-  font-family: Ubuntu, "Segoe UI", sans-serif;
+  font-family: Spartan, "Segoe UI", sans-serif;
   font-size: 16px;
 
   @media (min-width: 800px) {
@@ -66,3 +64,15 @@ p {
   margin: 0 0 2em;
 }
 
+.main-layout {
+  margin: 0 24px;
+  @media screen and (min-width: 780px) {
+    margin: 0 100px;
+    
+}
+  @media screen and (min-width: 1000px) {
+    margin: 0 167px;
+    
+}
+
+}
