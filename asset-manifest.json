@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/nofarYunger/css-interview.git/static/css/main.9aaec2be.chunk.css",
-    "main.js": "/nofarYunger/css-interview.git/static/js/main.c26a11b5.chunk.js",
-    "main.js.map": "/nofarYunger/css-interview.git/static/js/main.c26a11b5.chunk.js.map",
-    "runtime-main.js": "/nofarYunger/css-interview.git/static/js/runtime-main.215aa3d3.js",
-    "runtime-main.js.map": "/nofarYunger/css-interview.git/static/js/runtime-main.215aa3d3.js.map",
-    "static/js/2.360bf62c.chunk.js": "/nofarYunger/css-interview.git/static/js/2.360bf62c.chunk.js",
-    "static/js/2.360bf62c.chunk.js.map": "/nofarYunger/css-interview.git/static/js/2.360bf62c.chunk.js.map",
-    "static/js/3.2a84a329.chunk.js": "/nofarYunger/css-interview.git/static/js/3.2a84a329.chunk.js",
-    "static/js/3.2a84a329.chunk.js.map": "/nofarYunger/css-interview.git/static/js/3.2a84a329.chunk.js.map",
+    "main.js": "/nofarYunger/css-interview.git/static/js/main.7e79e7ee.chunk.js",
+    "main.js.map": "/nofarYunger/css-interview.git/static/js/main.7e79e7ee.chunk.js.map",
+    "runtime-main.js": "/nofarYunger/css-interview.git/static/js/runtime-main.bfe8a034.js",
+    "runtime-main.js.map": "/nofarYunger/css-interview.git/static/js/runtime-main.bfe8a034.js.map",
+    "static/js/2.d9b3a5f8.chunk.js": "/nofarYunger/css-interview.git/static/js/2.d9b3a5f8.chunk.js",
+    "static/js/2.d9b3a5f8.chunk.js.map": "/nofarYunger/css-interview.git/static/js/2.d9b3a5f8.chunk.js.map",
+    "static/js/3.a2321125.chunk.js": "/nofarYunger/css-interview.git/static/js/3.a2321125.chunk.js",
+    "static/js/3.a2321125.chunk.js.map": "/nofarYunger/css-interview.git/static/js/3.a2321125.chunk.js.map",
     "index.html": "/nofarYunger/css-interview.git/index.html",
     "static/css/main.9aaec2be.chunk.css.map": "/nofarYunger/css-interview.git/static/css/main.9aaec2be.chunk.css.map",
-    "static/js/2.360bf62c.chunk.js.LICENSE.txt": "/nofarYunger/css-interview.git/static/js/2.360bf62c.chunk.js.LICENSE.txt",
+    "static/js/2.d9b3a5f8.chunk.js.LICENSE.txt": "/nofarYunger/css-interview.git/static/js/2.d9b3a5f8.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/nofarYunger/css-interview.git/static/media/ready-bg-mobile.6dc46897.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.215aa3d3.js",
-    "static/js/2.360bf62c.chunk.js",
+    "static/js/runtime-main.bfe8a034.js",
+    "static/js/2.d9b3a5f8.chunk.js",
     "static/css/main.9aaec2be.chunk.css",
-    "static/js/main.c26a11b5.chunk.js"
+    "static/js/main.7e79e7ee.chunk.js"
   ]
 }
