@@ -8,11 +8,9 @@ function App() {
     <Router>
       <AppHeader />
       <main className="App">
-        <Switch>
-          <Route component={Home} path="/" />
-        </Switch>
+        <Home />
       </main>
-      <Footer/>
+      <Footer />
     </Router>
   );
 }
